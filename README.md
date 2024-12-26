@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravale Attendance WebApp
+## About Laravel Attendance WebApp
 
 Laravale Attendance WebApp is a comprehensive solution for managing employee attendance and leave requests with ease and efficiency. Built on Laravel, this application provides an elegant syntax and robust functionality, ensuring a smooth user experience for both administrators and employees. Key features include:
 
